@@ -1,0 +1,8 @@
+[?] warmUpExercise.m - Simple example function in Octave/MATLAB ------------------OK
+[?] plotData.m - Function to display the dataset ---------------------------------OK
+[?] computeCost.m - Function to compute the cost of linear regression ------------OK
+[?] gradientDescent.m - Function to run gradient descent -------------------------OK
+[y] computeCostMulti.m - Cost function for multiple variables --------------------notsure
+[y] gradientDescentMulti.m - Gradient descent for multiple variables -------------notsure
+[y] featureNormalize.m - Function to normalize features --------------------------notsure
+[y] normalEqn.m - Function to compute the normal equations -----------------------notsure
