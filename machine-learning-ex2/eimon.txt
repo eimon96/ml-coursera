@@ -1,0 +1,5 @@
+[?] plotData.m - Function to plot 2D classication data ------------------------------ OK
+[?] sigmoid.m - Sigmoid Function ----------------------------------------------------- OK
+[?] costFunction.m - Logistic Regression Cost Function --------------------------------OK
+[?] predict.m - Logistic Regression Prediction Function -------------------------------OK
+[?] costFunctionReg.m - Regularized Logistic Regression Cost --------------------------OK
