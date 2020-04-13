@@ -24,3 +24,6 @@ exercises, solutions by me - Octave 5.1.0
 # Exercise 3:
 
 ![](https://i.imgur.com/rbUEjEb.jpg)
+
+# Exercise 4:
+![](https://i.imgur.com/QoITq2W.jpg)
