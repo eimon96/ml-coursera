@@ -1,0 +1,3 @@
+[?] sigmoidGradient.m - Compute the gradient of the sigmoid function  -----------------------------OK
+[?] randInitializeWeights.m - Randomly initialize weights  ----------------------------------------OK
+[?] nnCostFunction.m - Neural network cost function -----------------------------------------------OK
