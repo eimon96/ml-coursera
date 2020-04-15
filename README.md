@@ -27,3 +27,10 @@ exercises, solutions by me - Octave 5.1.0
 
 # Exercise 4:
 ![](https://i.imgur.com/QoITq2W.jpg)
+
+# Exercise 5:
+![](https://i.imgur.com/GKoxjDz.png)
+![](https://i.imgur.com/XvE25kp.png)
+![](https://i.imgur.com/ZbHUuFJ.png)
+![](https://i.imgur.com/WEAAYrN.png)
+![](https://i.imgur.com/corAEmY.png)
