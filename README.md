@@ -34,3 +34,11 @@ exercises, solutions by me - Octave 5.1.0
 ![](https://i.imgur.com/ZbHUuFJ.png)
 ![](https://i.imgur.com/WEAAYrN.png)
 ![](https://i.imgur.com/corAEmY.png)
+
+# Exercise 6:
+
+# Part1
+![](https://i.imgur.com/D10q6cX.png)
+
+# Part2
+![](https://i.imgur.com/scEUvwh.png)
