@@ -1,0 +1,11 @@
+PART1
+
+[?] findClosestCentroids.m - Find closest centroids (used in K-means)  --------------------------- OK
+[?] computeCentroids.m - Compute centroid means (used in K-means)  ------------------------------- OK
+[?] kMeansInitCentroids.m - Initialization for K-means centroids  -------------------------------- OK
+
+PART2
+
+[?] pca.m - Perform principal component analysis  ------------------------------------------------ OK
+[?] projectData.m - Projects a data set into a lower dimensional space  -------------------------- OK
+[?] recoverData.m - Recovers the original data from the projection  ------------------------------ OK
