@@ -42,3 +42,15 @@ exercises, solutions by me - Octave 5.1.0
 
 # Part2
 ![](https://i.imgur.com/scEUvwh.png)
+
+# Exercise 7:
+
+# Part1
+![](https://i.imgur.com/B65VXbK.png)
+![](https://i.imgur.com/MvqftQl.png)
+
+# Part 2
+![](https://i.imgur.com/KHTHk3j.png)
+![](https://i.imgur.com/s9Wokvj.png)
+![](https://i.imgur.com/aWhSVjc.png)
+![](https://i.imgur.com/LrjF4zs.png)
