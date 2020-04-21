@@ -54,3 +54,12 @@ exercises, solutions by me - Octave 5.1.0
 ![](https://i.imgur.com/s9Wokvj.png)
 ![](https://i.imgur.com/aWhSVjc.png)
 ![](https://i.imgur.com/LrjF4zs.png)
+
+# Exercise 8
+
+# Part1
+![](https://i.imgur.com/JyCHunf.png)
+![](https://i.imgur.com/k9o0C3N.png)
+
+# Part2
+![](https://i.imgur.com/XBzdBPT.png)
