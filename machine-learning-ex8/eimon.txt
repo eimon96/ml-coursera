@@ -1,0 +1,6 @@
+PART1
+[?] estimateGaussian.m - Estimate the parameters of a Gaussian distribution with a diagonal covariance matrix ----------------- OK
+[?] selectThreshold.m - Find a threshold for anomaly detection ---------------------------------------------------------------- OK
+
+PART2
+[?] cofiCostFunc.m - Implement the cost function for collaborative cltering --------------------------------------------------- OK
